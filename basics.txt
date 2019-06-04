@@ -1,0 +1,2 @@
+What is PySpark?
+PySpark is the collaboration of Apache Spark and Python.PySpark is the Python API for Spark
